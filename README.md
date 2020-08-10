@@ -1,5 +1,5 @@
 ### Hi there, I'm Fredrick 👋
-![Fredrick Abisai](./fredabisai-profile.png)
+<img src="https://raw.githubusercontent.com/fredabisai/fredabisai/master/fredabisai-profile.png" alt="banner that says Fredrick Abisai - System developer & Typescript Ethaunist">
 
 <!--
 **fredabisai/fredabisai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
