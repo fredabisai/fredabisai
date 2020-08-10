@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Fredrick 👋
+![Fredrick Abisai](./fredabisai-profile.png)
 
 <!--
 **fredabisai/fredabisai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
